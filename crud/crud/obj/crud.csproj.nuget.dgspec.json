@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sistemas01\\source\\repos\\crud\\crud\\crud.csproj": {}
+    "D:\\proyecto\\pruebaRepos2022\\crud\\crud\\crud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sistemas01\\source\\repos\\crud\\crud\\crud.csproj": {
+    "D:\\proyecto\\pruebaRepos2022\\crud\\crud\\crud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sistemas01\\source\\repos\\crud\\crud\\crud.csproj",
+        "projectUniqueName": "D:\\proyecto\\pruebaRepos2022\\crud\\crud\\crud.csproj",
         "projectName": "crud",
-        "projectPath": "C:\\Users\\sistemas01\\source\\repos\\crud\\crud\\crud.csproj",
+        "projectPath": "D:\\proyecto\\pruebaRepos2022\\crud\\crud\\crud.csproj",
         "packagesPath": "C:\\Users\\sistemas01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sistemas01\\source\\repos\\crud\\crud\\obj\\",
+        "outputPath": "D:\\proyecto\\pruebaRepos2022\\crud\\crud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
